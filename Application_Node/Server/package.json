@@ -1,0 +1,27 @@
+{
+  "name": "memoryeveryday",
+  "version": "1.0.0",
+  "description": "Memory Everyday",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-mysql-session": "^1.2.2",
+    "node-mysql": "^0.4.2",
+    "passport": "^0.4.0",
+    "passport-facebook": "^2.1.1",
+    "passport-local": "^1.0.0",
+    "pbkdf2-password": "^1.2.1",
+    "pub": "^0.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/infreljs/MemoryEveryday/server"
+  }
+}
